@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Kalkulator</title>
+<title>While</title>
 </head>
 <body>
 <?php
